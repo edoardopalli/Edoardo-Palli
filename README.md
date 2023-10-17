@@ -1,4 +1,4 @@
-# Hi there!
+## Hi there!
 I'm a Machine Learning Engineering. I'm working at Lokky, an insurance company based in Milan. 
 I have a Master of Sciensce in Mathematical Engineering - Statistical Learning, from Politecnico di Milano. 
 
@@ -15,3 +15,4 @@ Here is some of the research I enjoy doing:
 - Nonparametric Statistics
 - Bayesian Statistics
 
+[Here](https://github.com/edoardopalli/Edoardo-Palli/blob/main/CV%20-%20Edoardo%20Palli.pdf) you can find my CV. 
