@@ -16,3 +16,14 @@ Here is some of the research I enjoy doing:
 - Bayesian Statistics
 
 [Here](https://github.com/edoardopalli/Edoardo-Palli/blob/main/CV%20-%20Edoardo%20Palli.pdf) you can find my CV. 
+
+### Research Projects
+
+[Bayesmix: flexible Bayesian nonparametric mixture models](https://github.com/edoardopalli/bayesmix)
+
+C++ library for running MCMC simulations in Bayesian mixture models.
+
+[Alzheimer detection: a research on the development of the disease](https://github.com/edoardopalli/ALZHEIMER_prognonpa)
+
+Nonparametric statistics project on the main factors that contribute to the development of the disease.
+  
