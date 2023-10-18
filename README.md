@@ -2,7 +2,7 @@
 I'm a Machine Learning Engineer. I'm working at Lokky, an insurance company based in Milan. 
 I have a Master of Sciensce in Mathematical Engineering - Statistical Learning, from Politecnico di Milano. 
 
-I am passionate about Statistics and Machine Learning. I love sports, in particular football, and I would love to work in the field
+I am passionate about Statistics and Machine Learning. I love sports, in particular football, and I would love to work in that field
 applying my statistical knowledges.
 I am familiar with Python, R, C++, and Matlab.
 
