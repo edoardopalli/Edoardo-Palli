@@ -22,6 +22,6 @@ Here is some of the research I enjoy doing:
 [Bayesmix: flexible Bayesian nonparametric mixture models](https://github.com/edoardopalli/bayesmix) \
 C++ library for running MCMC simulations in Bayesian mixture models.
 
-[Alzheimer detection: a research on the development of the disease](https://github.com/edoardopalli/ALZHEIMER_prognonpa) \
+[Alzheimer detection: a research on the development of the disease](https://github.com/edoardopalli/Alzheimer-Detection) \
 Nonparametric statistics project on the main factors that contribute to the development of the disease.
   
