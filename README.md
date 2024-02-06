@@ -15,7 +15,7 @@ Here is some of the research I enjoy doing:
 - Nonparametric Statistics
 - Bayesian Statistics
 
-[Here]([https://github.com/edoardopalli/Edoardo-Palli/blob/main/CV%20-%20Edoardo%20Palli.pdf](https://github.com/edoardopalli/edoardopalli/blob/main/CV%20Inglese%20-%20Edoardo%20%20Palli.pdf) you can find my CV. 
+[Here](https://github.com/edoardopalli/edoardopalli/blob/main/CV%20Inglese%20-%20Edoardo%20%20Palli.pdf) you can find my CV. 
 
 ### Research Projects
 
